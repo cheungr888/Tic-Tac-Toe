@@ -6,4 +6,4 @@ There is some features I can improve and some small bug to smooth out, but the g
 
 To get the game to run, follow the commands below.
 
-Open a terminal > type in the following w/out quotes > "java -jar TicTacToe.jar"
+Download the .jar file > Open a terminal > type in the following w/out quotes > "java -jar TicTacToe.jar"
